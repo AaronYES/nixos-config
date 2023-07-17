@@ -87,7 +87,7 @@
   ];
 
   # 虚拟机
-  virtualisation.libvirtd.enable = false;
+  # virtualisation.libvirtd.enable = false;
 
   sound.enable = true;
   hardware.pulseaudio.enable = false;

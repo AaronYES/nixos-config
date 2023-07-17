@@ -18,6 +18,7 @@
   vscode
   firefox
   chromium
+  # libvirt
   # virt-manager
   # jetbrains.idea-ultimate
   ];
